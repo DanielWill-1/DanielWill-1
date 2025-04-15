@@ -1,44 +1,71 @@
-Hi there! 👋 
+# 👋 Hi there! I'm Daniel Willson
 
-I'm Daniel Willson
+Computer Science Student | 🤖 Machine Learning & AI Enthusiast | 💻 Software Developer  
+*Passionate about building intelligent systems and experimenting with data to solve real-world problems.*
 
-About Me
+---
 
-I'm a Computer Science student passionate about Machine Learning, AI, and Software Development. I love building intelligent systems, experimenting with data.
+## 🚀 About Me
 
-Current Focus
+I'm a Computer Science student with a strong interest in **Machine Learning**, **Artificial Intelligence**, and **Software Development**. I enjoy working on innovative projects that combine **LLMs**, **Computer Vision**, and **Bayesian Networks** to create scalable and impactful applications.
 
-Working on ML projects integrating LLMs, Computer Vision, and Bayesian Networks
+---
 
-Exploring deep learning and reinforcement learning
+## 🎯 Current Focus
 
-Building scalable AI applications with Python, PyTorch, and TensorFlow
+- 🧠 Integrating LLMs, Computer Vision, and Bayesian Networks in ML pipelines  
+- 🤖 Exploring **Deep Learning** and **Reinforcement Learning**  
+- ⚙️ Building scalable AI applications with **Python**, **PyTorch**, and **TensorFlow**
 
-Tech Stack
+---
 
-Languages: Python, JavaScript, SQL, C
+## 🛠 Tech Stack
 
-ML & AI: PyTorch, TensorFlow, Scikit-learn, OpenCV, Hugging Face
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-Web Dev: Flask, React, Node.js
+**ML & AI**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCD00?style=flat&logo=huggingface&logoColor=black)
 
-Databases: PostgreSQL, MongoDB
+**Web Development**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-DevOps: Docker, Git, Firebase
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-Projects:
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-Finite Automata Simulator - Visualizing DFA/NFA and automata theory concepts 
+---
 
-Bayesian Weather Predictor - Probabilistic weather prediction using Bayesian networks 
+## 🧪 Featured Projects
 
-📫 Get in Touch
+### 🔷 [Finite Automata Simulator](https://github.com/DanielWill-1/fsa-simulator)
+A visual DFA/NFA simulator that helps users understand automata theory with state transitions and path tracing. Built using Flask + React with Graphviz visualizations.
 
-LinkedIn: https://www.linkedin.com/in/daniel-willson-76b17024b/
+### 🌦 [Bayesian Weather Predictor](https://github.com/DanielWill-1/bayesian-weather-predictor)
+Predicts weather conditions using Bayesian Networks, allowing for probabilistic inference and decision-making based on multiple variables.
 
-GitHub: https://github.com/DanielWill-1
+---
 
-Email: danielwillson004@gmail.com
+## 📫 Get in Touch
 
-Let's build something amazing together! 🚀
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-willson-76b17024b/)
+- 🧑‍💻 [GitHub](https://github.com/DanielWill-1)
+- 📧 Email: [danielwillson004@gmail.com](mailto:danielwillson004@gmail.com)
 
+---
+
+### 🚀 Let’s build something amazing together!
