@@ -67,5 +67,10 @@ Predicts weather conditions using Bayesian Networks, allowing for probabilistic 
 - 📧 Email: [danielwillson004@gmail.com](mailto:danielwillson004@gmail.com)
 
 ---
+![image](https://github.com/user-attachments/assets/5e0fe37f-40b8-4642-9a4a-eca0ece5b1bd)
+
+![image](https://github.com/user-attachments/assets/91147f5b-9da1-4fe7-935a-b86e39e982d3)
+
+---
 
 ### 🚀 Let’s build something amazing together!
