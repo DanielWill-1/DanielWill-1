@@ -1,25 +1,26 @@
 # 👋 Hi there! I'm Daniel Willson
 
-Computer Science Student | 🤖 Machine Learning & AI Enthusiast | 💻 Software Developer  
-*Passionate about building intelligent systems and experimenting with data to solve real-world problems.*
+Computer Science Student |  Machine Learning & AI Enthusiast | Learning Software Developer   
+Passionate about building intelligent systems and experimenting with data to solve real-world problems.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Computer Science student with a strong interest in **Machine Learning**, **Artificial Intelligence**, and **Software Development**. I enjoy working on innovative projects that combine **LLMs**, **Computer Vision**, and **Bayesian Networks** to create scalable and impactful applications.
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
-- 🧠 Integrating LLMs, Computer Vision, and Bayesian Networks in ML pipelines  
-- 🤖 Exploring **Deep Learning** and **Reinforcement Learning**  
-- ⚙️ Building scalable AI applications with **Python**, **PyTorch**, and **TensorFlow**
+-  Integrating LLMs, Computer Vision, and Bayesian Networks in ML pipelines  
+-  Exploring **Deep Learning** and **Reinforcement Learning**  
+-  Building scalable AI applications with **Python**, **PyTorch**, and **TensorFlow**
+-  Building & learning scalable applications 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -50,21 +51,21 @@ I'm a Computer Science student with a strong interest in **Machine Learning**, *
 
 ---
 
-## 🧪 Featured Projects
+## Featured Projects
 
-### 🔷 [Finite Automata Simulator](https://github.com/DanielWill-1/fsa-simulator)
+### Finite Automata Simulator
 A visual DFA/NFA simulator that helps users understand automata theory with state transitions and path tracing. Built using Flask + React with Graphviz visualizations.
 
-### 🌦 [Bayesian Weather Predictor](https://github.com/DanielWill-1/bayesian-weather-predictor)
+### Bayesian Weather Predictor
 Predicts weather conditions using Bayesian Networks, allowing for probabilistic inference and decision-making based on multiple variables.
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-willson-76b17024b/)
-- 🧑‍💻 [GitHub](https://github.com/DanielWill-1)
-- 📧 Email: [danielwillson004@gmail.com](mailto:danielwillson004@gmail.com)
+-  LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-willson-76b17024b/)
+-  Github: [GitHub](https://github.com/DanielWill-1)
+-  Email: [danielwillson004@gmail.com](mailto:danielwillson004@gmail.com)
 
 ---
 ![image](https://github.com/user-attachments/assets/5e0fe37f-40b8-4642-9a4a-eca0ece5b1bd)
