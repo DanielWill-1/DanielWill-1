@@ -95,9 +95,5 @@ A machine learning recommender system using audio features, content-based filter
 - GitHub: [DanielWill-1](https://github.com/DanielWill-1)
 - Email: [danielwillson004@gmail.com](mailto:danielwillson004@gmail.com)
 
-## GitHub Stats
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielWill-1&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielWill-1&layout=compact&theme=default&hide_border=true)
 
